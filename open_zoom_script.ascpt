@@ -1,0 +1,4 @@
+tell application "zoom.us"
+	activate
+	open location LINKLOC
+end tell
